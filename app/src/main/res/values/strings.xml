@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Quizly</string>
+    <string name="welcome">Welcome</string>
+    <string name="nameHInt">Please enter your name</string>
+    <string name="person_name">Name</string>
+    <string name="start">Start</string>
+    <string name="divide">/</string>
+    <string name="submit">SUBMIT</string>
+    <string name="finish">FINISH</string>
+    <string name="result">Result</string>
+    <string name="goNextQ">GO TO NEXT QUESTION</string>
+</resources>
