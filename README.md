@@ -36,4 +36,5 @@ Android quiz application developed to test your knowledge about colourful flags 
 
 
 ## Contact for collaboration
-> @ [ampicopn@gmail.com]
+> **_If you face any issue or want to collaborate, feel free to contact me: @ [ampicopn@gmail.com]_**
+
